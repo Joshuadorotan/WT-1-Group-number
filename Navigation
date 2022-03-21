@@ -1,0 +1,64 @@
+TYPE html>
+<html>
+  <head>
+    <title>Student Profile</title>
+  </head>
+  <body>
+
+    <h1>Student profile</h1>
+
+    <table>
+      <tr>
+        <th>Column 1</th>
+        <th>Column 2</th>
+        <th>Column 3</th>
+        <th>Column 4</th>
+      </tr>
+      <tr>
+        <td>ABAYARE, mariel J</td> </tr>
+          <td> ABDULLAH, norhanah B</td> </tr>
+            <td>ABRIOL, cole andrew C</td> </tr>
+              <td>ARAGO, john henry</td> </tr>
+                <td> BROQUEZA, joan B</td> </tr>
+                  <td> CATALAN, ariane R</td> </tr>
+                    <td> DELA CRUZ, mark joseph C</td> </tr>
+                      <td> ERO, patrick andrei P</td> </tr>
+                        <td> GA-AS, joebert P</td> </tr>
+                          <td> GA-AS, joebert P</td> </tr>
+                            <td> HERNANDEZ, jaydellane C</td> </tr>
+                              <td> JIMENEZ, elijah joshua O</td> </tr>
+                                <td> LAJUM, kenneth N</td> </tr>
+                                  <td> LAUSA, kevin son G</td> </tr>
+                                    <td> LEGO, inah mae B</td> </tr>
+                                      <td>LEMETARES, audrey rose B</td> </tr>
+                                        <td>LUKBAN, michael joshua anthony</td> </tr>
+                                          <td>MARCOS, dj claire L</td> </tr>
+                                            <td> MARQUEZ, cassandra B</td> </tr>
+                                              <td> MILLA, norefe D</td> </tr>
+                                                <td> NAGANO JR., charles rovic B</td> </tr>
+                                                  <td>NAZARENO, jessica M</td> </tr>
+                                                    <td> NOSOTROS, mark daryl</td> </tr>
+                                                      <td>POJAS, merille joy P</td> </tr>
+                                                        <td>REYES, jhoyce B</td> </tr>
+                                                          <td>SAMULDE, raminie F</td> </tr>
+                                                            <td>SANTANA, lalaine P</td> </tr>
+                                                              <td> SANTOS, mara clariza R</td> </tr>
+                                                                <td> SANTUA, paul P</td> </tr>
+                                                                  <td> SEREDRICA, jefferson S</td> </tr>
+                                                                    <td> SIRIOS, bobby vincent i P</td> </tr>
+                                                                      <td>SOBERANO, jika B</td> </tr>
+                                                                        <td> SUCGANG, richard L</td> </tr>
+                                                                          <td> TARNATE, sheena mae M</td> </tr>
+                                                                            <td> TORRIGOZA, angel D</td> </tr>
+                                                                              <td> Jyrone Sales</td> </tr>
+                                                                                <td> Dorotan Joshua</td> </tr>
+                                                                                  <td> JOHN MICHEAL AGUILAR</td> </tr>
+                                                                                    <td> MOISES DOLLETON</td> </tr>
+                                                                                      <td>  DUSTIN MELO ERIDANI</td>
+                                                                                    </tr>
+     
+    </table>
+
+
+  </body>
+</html>
